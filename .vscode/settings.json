@@ -1,0 +1,7 @@
+{
+  // List of words to ignore during spell check.
+  "cSpell.words": [
+    "Nords",
+    "altmers"
+  ]
+}
