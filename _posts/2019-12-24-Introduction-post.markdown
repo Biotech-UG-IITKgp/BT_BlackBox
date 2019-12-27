@@ -5,6 +5,8 @@ date: 2019-12-27 16:38:23 +0530
 categories: jekyll update
 ---
 
+<!-- It has been my dream since first year to make such a resource. FINALLY!!! -->
+
 Hi. I created this static website to help fellow Undergrads from the Department of Biotechnology at Indian Institute of Technology, Kharagpur so that others may find useful resources so as to help everyone with academics.
 
 It will have two categories of posts in it:
