@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-# A guide to help students of IIT Kharagpur to tackle academics more easily.
+## A guide to help students of IIT Kharagpur to tackle academics more easily
 
 Uses the base Jekyll theme. Find out more info about customizing it, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 

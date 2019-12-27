@@ -28,7 +28,7 @@ The Library of Wisdom shall contain
 
 - Topper's notes (if they choose to submit)
 - Research Papers read by Undergrads (with a summary?)
-- Direct FAQ with interested seniors
+- Direct FAQ with interested seniors (coming soon)
 - Books for further reading
 
 ## Guide to Practical Treachery
@@ -36,8 +36,9 @@ The Library of Wisdom shall contain
 Au contraire, the Guide to Practical Treachery shall contain quick fixes, things that students with less interest (to put it mildly) in Biotechnology. It will contain:
 
 - Class notes and cheat sheets
-- All the class material
+- All the class material shared by professors and TAs
 - Previous Year Question Papers
+- Lab records, if possible
 
 <!--To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.-->
 
