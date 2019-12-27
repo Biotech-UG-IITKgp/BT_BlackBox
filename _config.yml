@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   A resource for Undergrads of Biotechnology Department at IIT Kgp.
   Recommendations and improvements are welcome. Let's make this an awesome
   resource.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "BT-BlackBox" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: once this site is set up
 github_username: Biotech-UG-IITKgp
