@@ -27,9 +27,10 @@ These resources are good if you are in your first year, without any previous kno
 <!-- Add the google drive links here -->
 
 [2nd-year-topper's-notes]: ()
-[3nd-year-topper's-notes]: (https://drive.google.com/drive/folders/1bfiOHRHDp34zJq2foHFNE0pgywcdkbym?usp=sharing)
+[3nd-year-topper's-notes]: (https://drive.google.com/drive/folders/1Im0kt4rW9_AqZaQF2-UVQKy-4s5hHRmy?usp=sharing)
 [2nd-year-books]: ()
 [3nd-year-books]: ()
+[semester5-notes]: (https://drive.google.com/open?id=1wFHmEbdesHF3WbjFcCic72BXOyhGCA3r)
 
 The Above Drive Links follow the hierarchy:
 
@@ -39,23 +40,23 @@ The Above Drive Links follow the hierarchy:
   - Semester 3
   - Semester 4
 - 3rd Year Material
-  - [Semester 5](3nd-year-topper's-notes)
-    - [CPC](https://drive.google.com/open?id=1QkhG-PansW55BepmbTdx1V30ECmde5Xz)
+  - [Semester 5](semester5-notes)
+    - [CPC](https://drive.google.com/open?id=14FsyrFn26d97cf_Q7JW6DH-_rO9qDyhG)
       - Books
       - Files
-    - [EVBT](https://drive.google.com/open?id=1G0Bp3ZaAyoc-3q37HzbQQ2tSxbbpUAkl)
+    - [EVBT](https://drive.google.com/open?id=1V4O8KZtTzzTsfwEmjnl0dX64Kv626Ezn)
       - PSar Material October 2019
       - Research Papers
       - Files
-    - [Genetics](https://drive.google.com/open?id=1siy6WrwSNf1WS6KM104oywECou_GNx2f)
+    - [Genetics](https://drive.google.com/open?id=1i90FNuv0Wk1YL9cQS5BfCRlKWjO8RC94)
       - AKG
       - MKM
       - RD
       - Files
-    - [MT 1](https://drive.google.com/open?id=1vfJbuSTThohuhcpbL3IuvbXh5ejcUdi-)
+    - [MT 1](https://drive.google.com/open?id=1LRM3gub8_ZzVpYe6egVHyXZ7EmlaeKch)
       - Chem Section Notes
       - NCP Assignments
-    - [IEM] Techno Entrepreneurial Leadership
+    - [IEM](https://drive.google.com/open?id=1X1CVlNm3Rp_DqF9Euybq8PrjH-2UAaw4) Techno Entrepreneurial Leadership
     - Labs
       - Lab 1?
       - Lab 2?
