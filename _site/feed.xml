@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-01-06T12:46:16+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">Suggest some cool title</title><subtitle>A resource for Undergrads of Biotechnology Department at IIT Kgp. Recommendations and improvements are welcome. Let's make this an awesome resource.</subtitle><entry><title type="html">Welcome to Biotech-UG-IITKgp!</title><link href="http://localhost:4000/jekyll/update/2019/12/27/Introduction-post.html" rel="alternate" type="text/html" title="Welcome to Biotech-UG-IITKgp!" /><published>2019-12-27T16:38:23+05:30</published><updated>2019-12-27T16:38:23+05:30</updated><id>http://localhost:4000/jekyll/update/2019/12/27/Introduction-post</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2019/12/27/Introduction-post.html">&lt;!-- It has been my dream since first year to make such a resource. FINALLY!!! --&gt;
+
+&lt;p&gt;Hi. I created this static website to help fellow Undergrads from the Department of Biotechnology at Indian Institute of Technology, Kharagpur so that others may find useful resources so as to help everyone with academics.&lt;/p&gt;
+
+&lt;p&gt;It will have two categories of posts in it:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;People who are &lt;strong&gt;really&lt;/strong&gt; interested in exploring the field.&lt;/li&gt;
+  &lt;li&gt;People who just need help (so as to focus on something they find more interesting)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Let’s call people of type 1… “&lt;em&gt;Altmers&lt;/em&gt;”. And people of type 2… “&lt;em&gt;Nords&lt;/em&gt;”. It’s all arbitrary, of course.&lt;/p&gt;
+
+&lt;p&gt;So.&lt;/p&gt;
+
+&lt;p&gt;Altmers can refer and add material to the &lt;strong&gt;&lt;em&gt;Library of Wisdom&lt;/em&gt;&lt;/strong&gt;, whereas Nords can refer and add material to the &lt;strong&gt;&lt;em&gt;Guide to Practical Treachery&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;!-- I will try to get maximum number of toppers to sign up for this. Let's see what happens. --&gt;
+
+&lt;h2 id=&quot;the-library-of-wisdoms&quot;&gt;The Library of Wisdoms&lt;/h2&gt;
+
+&lt;p&gt;The Library of Wisdom shall contain&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Topper’s notes (if they choose to submit)&lt;/li&gt;
+  &lt;li&gt;Research Papers read by Undergrads (with a summary?)&lt;/li&gt;
+  &lt;li&gt;Direct FAQ with interested seniors (coming soon)&lt;/li&gt;
+  &lt;li&gt;Books for further reading&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;guide-to-practical-treachery&quot;&gt;Guide to Practical Treachery&lt;/h2&gt;
+
+&lt;p&gt;Au contraire, the Guide to Practical Treachery shall contain quick fixes, things that students with less interest (to put it mildly) in Biotechnology. It will contain:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Class notes and cheat sheets&lt;/li&gt;
+  &lt;li&gt;All the class material shared by professors and TAs&lt;/li&gt;
+  &lt;li&gt;Previous Year Question Papers&lt;/li&gt;
+  &lt;li&gt;Lab records, if possible&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;!--To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.--&gt;
+
+&lt;!--
+Jekyll also offers powerful support for code snippets:
+
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+--&gt;</content><author><name></name></author><summary type="html"></summary></entry></feed>
